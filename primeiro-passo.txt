@@ -2,3 +2,8 @@ Hello world!
 
 
 eu sou a linha 4
+clonar um versionamento:
+criar um repositório no desktop;
+baixar o git bash;
+botão direito do mouse-> git bash here;
+escreva no terminal o comando : git clone + o link do repositório.
