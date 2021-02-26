@@ -7,3 +7,4 @@ criar um repositório no desktop;
 baixar o git bash;
 botão direito do mouse-> git bash here;
 escreva no terminal o comando : git clone + o link do repositório.
+teste de versão, atualizar no desktop e no github ao mesmo tempo, e atualizar o dsktop para ver se perco arquivos.
